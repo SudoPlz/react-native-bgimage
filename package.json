@@ -1,5 +1,8 @@
 {
   "name": "react-native-bgimage",
+  "dependencies": { 
+    "prop-types": "*"
+  },
   "version": "1.4.0",
   "description": "Background image view for react native",
   "keywords": [ "react", "react native", "react-native", "react-component", "image", "background" ],
